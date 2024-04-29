@@ -1,4 +1,4 @@
 # AWS-Security-Notes
 AWS Security Notes
 
-https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/04f51eac-6424-48b5-822d-a4bb3aac5d2f
+![image](https://github.com/MiguelAngelHorta/AWS-Security-Notes/assets/106134627/aa56d6fc-ffec-4fd3-833d-44f0526e4bdf)
